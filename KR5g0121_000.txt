@@ -1,0 +1,8 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 太上大道玉清經
+#+DATE: 2015-08-29 02:57:21
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: JUAN 0
+
+
