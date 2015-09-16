@@ -1,8 +1,7 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 02:56:22.408009
 #+TITLE: 太上大道玉清經
-#+DATE: 2015-08-29 02:57:21
+#+PROPERTY: DZID  DZ1312
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，33—281 十卷 正一部
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-
+#+PROPERTY: WITNESS HFL
